@@ -1,0 +1,6 @@
+#header,#footer{height:0.8rem;line-height: 0.8rem;background-color:#D8D8D8;text-align:center;}
+.flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}
+.flex-item{flex: 1;}
+.overflow{overflow: auto;}
+.wrapper-height{height: 100%;}
+[v-cloak]{display: none;}
